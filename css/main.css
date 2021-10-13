@@ -1,6 +1,9 @@
 * {
   font-family: 'Nunito', sans-serif; }
 
+a {
+  color: #04A1DD; }
+
 header {
   background: white;
   color: #04A1DD;
