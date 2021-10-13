@@ -1,0 +1,42 @@
+* {
+	font-family: 'Nunito', sans-serif;
+}
+header {
+	background: white;
+	color: #04A1DD;
+	padding: 30px 15px;
+	border-bottom: 5px solid #04a1dd;
+}
+.body {
+	padding: 40px 15px 20px;
+	h2,h3,h4 {
+		margin-bottom: 20px;
+		color: #04A1DD;
+	}
+	mark {
+		color: white;
+		background: #04a1dd;
+		z-index: -2;
+	}
+	
+	a {
+		color: #04A1DD;
+	}
+	ul {
+		li {
+			margin-bottom: 10px;
+			ul {
+				margin-top: 10px;
+			}
+		}
+	}
+}
+footer {
+	border-top: 2px solid #04a1dd;
+	margin-bottom: 20px;
+	p {
+		text-align: center;
+		margin-bottom: 0;
+		margin-top: 20px;
+	}
+}
